@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./image/logo.png" alt="logo" width="200px">
+  <img src="https://private-user-images.githubusercontent.com/29221823/423061248-9fa79573-198c-4943-8983-1f0637e353d9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDIwMzAyMTgsIm5iZiI6MTc0MjAyOTkxOCwicGF0aCI6Ii8yOTIyMTgyMy80MjMwNjEyNDgtOWZhNzk1NzMtMTk4Yy00OTQzLTg5ODMtMWYwNjM3ZTM1M2Q5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzE1VDA5MTE1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE1N2Y5ODhlMDIwYzNiYTE2MDNlMTRjZGE2NGQ1OGQ3NThmZWVhN2E4ZDNhNWQ4ZjBhYzdmYzMxMjY1ZWI2MzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.C5iwo4GR1mtG9Dl4aM-WihhiGX1JTw5ZbWij_Bl26uc" alt="logo" width="200px">
   <br><br>
   <b>경상국립대 학우들을 위한 교내 정보 제공 카카오톡 챗봇 서비스</b>
   <br><br>
