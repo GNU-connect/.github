@@ -34,13 +34,8 @@
 <br><br>
 
 <div align="center">
-  <h3>셔틀버스</h3>
-</div>
-
-<br><br>
-
-<div align="center">
   <h3>열람실 좌석</h3>
+  <img src="./image/library.gif" alt="library" width="750px">
 </div>
 
 # ⚙️ 프로젝트 구조
