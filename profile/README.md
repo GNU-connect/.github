@@ -31,7 +31,7 @@
 
 <div align="center">
   <h3>학식 메뉴 조회</h3>
-  <img src="./image/diet.gif" alt="diet" width="750px">
+  <img src="https://private-user-images.githubusercontent.com/29221823/423060841-b8eb4bcd-42c2-45c5-b036-6c455bc33d72.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDIwMzAxMDQsIm5iZiI6MTc0MjAyOTgwNCwicGF0aCI6Ii8yOTIyMTgyMy80MjMwNjA4NDEtYjhlYjRiY2QtNDJjMi00NWM1LWIwMzYtNmM0NTViYzMzZDcyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzE1VDA5MTAwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg5ZDE0NjdhMGU0NDRhZjk2NjM4MDMxN2QzYjljMTMwZTc3NTU4ZGM4Zjc0OWNhNzBlYWNhNmI0MDQzZmRjNzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.rJI1LdnA-KrFaLBHmLKMXyJyQseE-RH2r4j7yf1Sr_c" alt="diet" width="750px">
 </div>
 <br>
 
