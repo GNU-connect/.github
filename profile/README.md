@@ -38,6 +38,8 @@
   <img src="./image/library.gif" alt="library" width="750px">
 </div>
 
+<br><br>
+
 # ⚙️ 프로젝트 구조
 
 ## 시스템 아키텍처
