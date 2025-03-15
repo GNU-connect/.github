@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./image/logo.png" alt="logo" width="200px">
   <br><br>
-  <b>경상국립대 학생들을 위한 교내 정보 제공 카카오톡 챗봇 서비스</b>
+  <b>경상국립대 학우들을 위한 교내 정보 제공 카카오톡 챗봇 서비스</b>
   <br><br>
 
   [서비스 링크](https://pf.kakao.com/_bikxiG) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [API 명세서](https://github.com/GNU-connect/.github/wiki/API-%EB%AA%85%EC%84%B8%EC%84%9C)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[DB 스키마](https://github.com/GNU-connect/.github/wiki/DB-%EC%8A%A4%ED%82%A4%EB%A7%88)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[컨벤션](https://github.com/GNU-connect/.github/wiki/%EC%BB%A8%EB%B2%A4%EC%85%98)
