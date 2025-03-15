@@ -28,7 +28,7 @@
 
 <div align="center">
   <h3>학사일정</h3>
-  <img src="./image/calendar.gif alt="calendar" width="750px">
+  <img src="./image/calendar.gif" alt="calendar" width="750px">
 </div>
 
 <br><br>
