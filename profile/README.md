@@ -19,7 +19,7 @@
 
 <div align="center">
   <h3>학교 & 학과 공지사항 조회</h3>
-  <img src="./image/notice.gif" alt="notice" width="750px">
+  <img src="https://private-user-images.githubusercontent.com/29221823/423052158-643706b2-d58b-4177-8f03-0b62e6c2b3c1.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDIwMjczMzMsIm5iZiI6MTc0MjAyNzAzMywicGF0aCI6Ii8yOTIyMTgyMy80MjMwNTIxNTgtNjQzNzA2YjItZDU4Yi00MTc3LThmMDMtMGI2MmU2YzJiM2MxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzE1VDA4MjM1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFiOTQ4NjFkNmExOWEwOTRhNzY2ZDYzZWQ4MzhiNjMzMTBlMjgxYjIzY2VhOGI5YmVjMjM0MzY2ZjZjMDhlMDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0._M4unuvuAocfEPYbWBsdimJkJqnd-sPyov7fxz6PKPA" alt="notice" width="750px">
 </div>
 
 <br><br>
@@ -31,14 +31,14 @@
 
 <div align="center">
   <h3>학사일정</h3>
-  <img src="./image/calendar.gif" alt="calendar" width="750px">
+  <img src="https://private-user-images.githubusercontent.com/29221823/423051871-35e27156-b2c4-4ce8-8a82-145836428c10.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDIwMjczMzMsIm5iZiI6MTc0MjAyNzAzMywicGF0aCI6Ii8yOTIyMTgyMy80MjMwNTE4NzEtMzVlMjcxNTYtYjJjNC00Y2U4LThhODItMTQ1ODM2NDI4YzEwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzE1VDA4MjM1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZhN2ZkNjc5YWQ4NWIwNjIwOTUxYjJlNGRmZjg0M2MwZTI4YzI1YjU0NDEzMDRiZGFjYThiMjI0ZGFkNTQ0NDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.lBFGlwWvNfgiBZzWCTK2P25qMjXKMCYFnNcDprAoNWY" alt="calendar" width="750px">
 </div>
 
 <br><br>
 
 <div align="center">
   <h3>열람실 좌석</h3>
-  <img src="./image/library.gif" alt="library" width="750px">
+  <img src="https://private-user-images.githubusercontent.com/29221823/423051860-a58e572c-837d-4fb3-9d2e-6b9bc11fb8fc.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDIwMjczMzMsIm5iZiI6MTc0MjAyNzAzMywicGF0aCI6Ii8yOTIyMTgyMy80MjMwNTE4NjAtYTU4ZTU3MmMtODM3ZC00ZmIzLTlkMmUtNmI5YmMxMWZiOGZjLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzE1VDA4MjM1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVkZWQ4NTNiOWVlZjc2ZjgxMDkwODc2NjFiMmM1NGQwNTQ5YjA1ODQ3ODgxMGQ0Y2UxZDA3NWQxZmUxZWM5NjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.OZjWuWtvqEfyENWXrVsVkf21hd1UjtNdW6BK67trkzk" alt="library" width="750px">
 </div>
 
 <br><br>
@@ -47,7 +47,7 @@
 
 ## 시스템 아키텍처
 
-![alt text](./image/architecture.png)
+![alt text](https://private-user-images.githubusercontent.com/29221823/423052783-a45c21f3-b7f9-456b-8877-9b5dfd781342.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDIwMjcyODEsIm5iZiI6MTc0MjAyNjk4MSwicGF0aCI6Ii8yOTIyMTgyMy80MjMwNTI3ODMtYTQ1YzIxZjMtYjdmOS00NTZiLTg4NzctOWI1ZGZkNzgxMzQyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzE1VDA4MjMwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY2YzMwMjNhYjVhMDRiY2NhNWI5MDI4MjIwY2EyMDM3NzE2NWU4NWZiYzNmMDAzZTY5NjA5ZDE3YWE2ODNiYWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.TbsE-8fKFbtdkiG9UPq4JySx7ZmvxiDkTnS8RnvMmiE)
 <br><br>
 
 ## 기술 스택
